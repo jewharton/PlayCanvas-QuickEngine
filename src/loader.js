@@ -1,7 +1,7 @@
 var Loader = pc.createScript('loader');
 
 Loader.prototype.initialize = function() {
-  var url = "https://raw.githubusercontent.com/xaresys/PlayCanvas-QuickEngine/master/src/test.js";
+  var url = "https://raw.githubusercontent.com/xaresys/PlayCanvas-QuickEngine/loadertest/src/test.js";
   var root = this.entity;
   
   /*
